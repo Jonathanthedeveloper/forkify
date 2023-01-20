@@ -1,5 +1,4 @@
 // import icons from '../img/icons.svg'; // Parcel 1
-import { icons } from 'url:../img/icons.svg'; // Parcel 2
 
 // This polyfills our code to support older browsers
 import 'core-js/stable';
